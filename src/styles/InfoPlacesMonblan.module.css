@@ -1,0 +1,48 @@
+.content_places_monblan {
+  text-align: center;
+  overflow-y: scroll;
+  background: rgba(255, 255, 255, 0.8) scroll;
+  max-width: 600px;
+  max-height: 1300px;
+  margin: auto;
+}
+
+.content_places_monblan h1 {
+  padding: 10px;
+  font-size: 17px;
+  color: rgb(147, 175, 175);
+}
+
+.content_places_monblan p {
+  font-size: 20px;
+  padding: 17px;
+}
+
+.content_places_monblan h2 {
+  margin-top: 7px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.content_places_monblan span {
+  font-style: italic;
+  font-weight: 600;
+}
+
+.content_places_monblan img {
+  width: 500px;
+  display: block;
+  margin: auto;
+  max-height: 300px;
+}
+
+.navigateHomePage {
+  position: fixed;
+  font-size: 30px;
+  padding: 8px 15px;
+  margin: 5px 0px 0px 25px;
+  border: none;
+  border-radius: 20px;
+  color: rgb(146, 169, 79);
+  background: rgb(255, 255, 255);
+}
